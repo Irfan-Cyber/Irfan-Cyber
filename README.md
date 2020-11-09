@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Irfan-Cyber&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=Irfan Cyber&show_icons=true)
 
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan-Cyber&layout=compact)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfan Cyber&layout=compact)
 
 ##
 
